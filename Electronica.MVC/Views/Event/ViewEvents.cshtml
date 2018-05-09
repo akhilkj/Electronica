@@ -1,0 +1,126 @@
+﻿
+@{
+    ViewBag.Title = "ViewEvents";
+}
+<script src="~/Scripts/jquery-3.0.0.min.js"></script>
+<link rel="stylesheet" type="text/javascript" href="//cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js">
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script> 
+<script>
+    $(document).ready(function () {
+       
+        var topics = [];
+        var locations = [];
+        $.ajax({
+            url: "TopicJson",
+            dataType: "JSON",
+            type: "GET",
+            success: function (data) {
+                console.log(data);
+                topics = data;
+            }
+        });
+        $.ajax({
+
+            url: "GetAllLocations",
+            datatype: "JSON",
+            type: "GET",
+            success: function (ldata)
+            {
+                console.log(ldata);
+                locations = ldata;
+            }
+        });
+        $.ajax({
+            url: "SearchEvent",
+            dataType: "JSON",
+            type: "GET",
+            success: function (json) {
+                console.log(json);
+                console.log(topics);
+                console.log(locations);
+
+                var Elength = json.length;
+                var Tlength = topics.length;
+                var Llength = locations.length;
+                for (var i = 0; i < Elength; i++) {
+                    var s = json[i];
+                    var topic;
+                    var location;
+
+
+                    for (var j = 0; j < Tlength; j++) {
+
+                        if (s.TopicID == topics[j].TopicID) {
+                            topic = topics[j].TopicName;
+                        }
+                    }
+                    for (var k = 0; k < Llength; k++) {
+                        if (s.LocationID == locations[k].LocationID) {
+                            location = locations[k].LocationName;
+                        }
+
+                    }
+
+                    var d = new Date(parseInt(s.EventStartDate.substr(6)));
+                    var formattedDate = (d.getDate()) + "/" + (d.getMonth() + 1) + "/" + (d.getFullYear());
+
+                    var tr = $("#EventBody").append($("<tr>"));
+
+                    tr.append("<td>" + s.EventID + "</td>");
+                    tr.append("<td>" + s.EventName + "</td>");
+                    tr.append("<td>" + topic + "</td>");
+                    tr.append("<td>" + formattedDate + "</td");
+                    tr.append("<td>" + location + "</td>");
+                    var url = "ModifyEvent?EventID=" + s.EventID;
+
+                    tr.append("<td><a href =" + url + "><i class='material-icons'>edit</i></td>");
+
+
+                }
+                
+               
+            }
+           
+             
+        });
+        
+    });
+</script>
+
+<h2>Search Events</h2>
+
+@*<div >
+    <table class="table table-bordered table-dark">
+        <tr>
+            <td><input type="text" id="myState" onkeyup="myStateFunction()" class="form-control" placeholder="Search by Event name" title="Type in a name"></td>
+
+            <td><input type="text" id="myDistrict" onkeyup="myDistrictFunction()" class="form-control" placeholder="Search by Start date" title="Type in a name"></td>
+
+            <td><input type="text" id="myCity" onkeyup="myCityFunction()" class="form-control" placeholder="Search by Speaker" title="Type in a name"></td>
+        </tr>
+    </table>
+    </div>*@
+
+<div class="form-row">
+    <table id="EventTable"  class="table  table-bordered table-hover">
+        <thead>
+            <tr id="tr1">
+
+                <th>Event ID</th>
+                <th>Event Name</th>
+                <th>Topic</th>
+                <th>Start Date</th>
+                <th>Location</th>
+                <th></th>
+
+            </tr>
+        </thead>
+        <tbody id="EventBody">
+
+        </tbody>
+    </table>
+</div>
+
+
+
+

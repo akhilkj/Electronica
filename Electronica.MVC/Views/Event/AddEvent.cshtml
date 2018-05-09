@@ -1,0 +1,426 @@
+﻿@model Electronica.Manager.DTO.EventDTO
+
+@{
+    ViewBag.Title = "AddEvent";
+}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="bootstrapdem.css">
+    <style>
+        .form-control {
+            width: 30%;
+        }
+
+        .container {
+            margin-top: 5%;
+            margin-left: 20%;
+        }
+
+        body {
+            background-size: cover;
+            background-position: center;
+            /*background-image: url('img8.jpg');*/
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+          //  alert("hai");
+            $.ajax({
+
+                url: "TopicJson",
+                datatype: "JSON",
+                type: "GET",
+                success: function (data) {
+
+
+                    console.log(data);
+                    $.each(data, function () {
+
+
+                        $("#TopicSelect").append($("<option></option>").val(this['TopicID']).text(this['TopicName']));
+
+                    });
+
+                }
+            });
+
+
+            $.ajax({
+
+                url: "LocationJson",
+                datatype: "JSON",
+                type: "GET",
+                success: function (data) {
+
+
+
+                    $.each(data, function () {
+
+                        $("#LocationSelect").append($("<option></option>").val(this['LocationID']).text(this['LocationName']));
+
+                    });
+
+                }
+            });
+
+
+            $("#startdate").on("change", function () {
+
+
+
+
+                $("p").hide();
+                var today = new Date();
+                startDate = new Date(this.value);
+                if (startDate > today) {
+
+                }
+                else {
+                    $("<p class='text-danger'>Please select a valid date</p>").insertAfter("#startdate");
+                }
+
+
+
+
+
+
+
+                $("#enddate").val("");
+                $("#expiry").val("");
+                $("#LocationSelect").empty();
+                $("#LocationSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                $("#SkillSelect").empty();
+                $("#SkillSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                $("#SpeakerSelect").empty();
+                $("#SpeakerSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+
+                $.ajax({
+
+                    url: "SkillJson",
+                    datatype: "JSON",
+                    type: "GET",
+                    success: function (data) {
+                        $.each(data, function () {
+                            $("#SkillSelect").append($("<option></option>").val(this['SkillID']).text(this['SkillName']));
+
+                        });
+
+                    }
+                });
+
+            });
+
+
+            $("#enddate").on("change", function () {
+
+
+
+
+
+                $("p1").hide();
+                var todaysdate = new Date();
+                var endDate = new Date(this.value);
+                if ((startDate <= endDate) && (endDate >= todaysdate)) {
+
+                }
+                else {
+                    $("<p1 class='text-danger'>Please select a valid date</p1>").insertAfter("#enddate");
+                }
+
+
+
+
+
+
+
+
+
+
+                $("#expiry").val("");
+                $("#LocationSelect").empty();
+                $("#LocationSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                if ($("#startdate").val() != '' && $("#enddate").val() != '') {
+                    var sdate = $("#startdate").val();
+                    var edate = $("#enddate").val();
+
+                    $.ajax({
+                        url: "SelectLocationForSpeaker",
+                        data: { 'StartDate': sdate, 'EndDate': edate },
+                        type: "POST",
+                        cache: "false",
+                        success: function () {
+                            //  alert("Success");
+                            $.ajax({
+
+                                url: "LocationJson",
+                                dataType: "JSON",
+                                type: "GET",
+                                success: function (locationdata) {
+                                    // alert("pls");
+                                    //alert(JSON.stringify(locationdata));
+                                    for (var i = 0; i < locationdata.length; i++) {
+
+                                        var s = locationdata[i];
+                                        console.log(s); //testing
+                                        $("#LocationSelect").append($("<option></option>").val(s.LocationID).text(s.LocationName));
+                                    }
+
+
+                                },
+                                error: function () {
+                                    alert("sorry again");
+                                }
+                            });
+
+                        },
+                        error: function () {
+                            alert("sorry in locationchange");
+                        }
+                    });
+
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+                $("#SkillSelect").empty();
+                $("#SkillSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                $("#SpeakerSelect").empty();
+                $("#SpeakerSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                $.ajax({
+
+                    url: "SkillJson",
+                    datatype: "JSON",
+                    type: "GET",
+                    success: function (data) {
+
+
+
+                        $.each(data, function () {
+
+
+                            $("#SkillSelect").append($("<option></option>").val(this['SkillID']).text(this['SkillName']));
+
+                        });
+
+                    }
+                });
+
+            });
+
+
+            $("#TopicSelect").on("change", function () {
+                $("#SkillSelect").empty();
+                $("#SkillSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+                $("#SpeakerSelect").empty();
+                $("#SpeakerSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+
+                $.ajax({
+
+                    url: "SkillJson",
+                    datatype: "JSON",
+                    type: "GET",
+                    success: function (data) {
+
+
+
+                        $.each(data, function () {
+
+
+                            $("#SkillSelect").append($("<option></option>").val(this['SkillID']).text(this['SkillName']));
+
+                        });
+
+                    }
+                });
+            });
+            //arj
+
+            $("#SkillSelect").on("change", function () {
+                $("#SpeakerSelect").empty();
+                $("#SpeakerSelect").append($("<option></option>").attr("disabled", "disabled").attr("hidden", "hidden").attr("selected", "selected").val("").text("select"));
+
+                if ($("#startdate").val() != '' && $("#enddate").val() != '') {
+                    var sdate = $("#startdate").val();
+                    var edate = $("#enddate").val();
+                    var skillid = $("#SkillSelect").val();
+                    $.ajax({
+                        url: "SelectForSpeaker",
+                        data: { 'StartDate': sdate, 'EndDate': edate, 'SkillID': skillid },
+                        type: "POST",
+                        cache: "false",
+                        success: function () {
+                            // alert(sdate);
+                            $.ajax({
+
+                                url: "SpeakerJson",
+                                dataType: "JSON",
+                                type: "GET",
+                                success: function (speakerdata) {
+                                   // console.log(speakerdata);
+                                    //alert(JSON.stringify(speakerdata));
+                                    for (var i = 0; i < speakerdata.length; i++) {
+                                        var s = speakerdata[i];
+                                        console.log(s); //testing
+                                        $("#SpeakerSelect").append($("<option></option>").val(s.UserID).text(s.FirstName));
+                                    }
+
+
+                                },
+                                error: function () {
+                                    alert("sorry agin");
+                                }
+                            });
+                        },
+                        error: function () {
+                            alert("sorry");
+                        }
+                    });
+                }
+
+
+            });
+
+
+
+            $('#expiry').change(function () {
+                $("p3").hide();
+                var todaydate = new Date();
+                var promoexpirydate = new Date(this.value);
+                if ((promoexpirydate < startDate) && (promoexpirydate >= todaydate)) {
+
+                }
+                else {
+                    $("<p3 class='text-danger'>Please select a valid date</p3>").insertAfter("#expiry");
+                }
+            });
+        });
+
+
+
+    //});
+
+    </script>
+
+
+</head>
+
+
+
+
+
+
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post" id="myform">
+                    <h2 style="font-family: sans-serif; font-size: 3vw;">ADD Event</h2>
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Event Name</label>
+                        <input type="text" class="form-control" placeholder="Event Name" id="Eventname" name="EventName">
+                        @Html.ValidationMessageFor(model => model.EventName, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Start Date</label>
+                        <input class="form-control" type="date" id="startdate" name="EventStartDate" placeholder="Event Start Date" />
+                        @Html.ValidationMessageFor(model => model.EventStartDate, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">End Date</label>
+                        <input class="form-control" type="date" id="enddate" name="EventEndDate" placeholder="Event End Date" />
+                        @Html.ValidationMessageFor(model => model.EventEndDate, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Topic</label>
+                        <select class="form-control" id="TopicSelect" name="TopicID">
+                            <option value="" disabled hidden selected>select </option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.TopicID, "", new { @class = "text-danger" })
+
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Location</label>
+                        <select class="form-control" id="LocationSelect" name="LocationID">
+                            <option value="" disabled hidden selected>select </option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.LocationID, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Skill</label>
+                        <select class="form-control" id="SkillSelect" name="SkillID">
+                            <option value="" disabled hidden selected>select </option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.SkillID, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Speaker</label>
+                        <select class="form-control" id="SpeakerSelect" name="SpeakerID">
+                            <option value="" disabled hidden selected>select </option>
+                        </select>
+                        @Html.ValidationMessageFor(model => model.SpeakerID, "", new { @class = "text-danger" })
+                    </div>
+
+
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Promo Code</label>
+                        <input class="form-control" type="text" id="promo" name="PromoCode" placeholder="Enter Promo Code" />
+                        @Html.ValidationMessageFor(model => model.PromoCode, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Promo Discount</label>
+                        <input class="form-control" type="text" placeholder="in %" id="PromoDiscount" name="PromoDiscount" />
+                        @Html.ValidationMessageFor(model => model.PromoDiscount, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-label" for="inputDefault">Promo Expiry</label>
+                        <input class="form-control" type="date" id="expiry" name="PromoExpiry" placeholder="Promo Expiry Date" />
+                        @Html.ValidationMessageFor(model => model.PromoExpiry, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-form-group" for="inputDefault">Event Fee</label>
+                        <input class="form-control" type="text" id="fees" name="EventFee" placeholder="Event Fees in Rupees" />
+                        @Html.ValidationMessageFor(model => model.EventFee, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-group" for="inputDefault">Event Intake</label>
+                        <input class="form-control" type="text" id="intake" name="EventIntake" placeholder="Seating Capacity" />
+                        @Html.ValidationMessageFor(model => model.EventIntake, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-form-group" for="inputDefault">Event Description</label>
+                        <input class="form-control" type="text" id="description" name="EventDescription" placeholder="Event Description" />
+                        @Html.ValidationMessageFor(model => model.EventDescription, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="btn-group">
+
+                        <button class="btn btn-primary btn-lg" type="submit" name="Clear" id="clear">Clear</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <button class="btn btn-primary btn-lg" type="submit" name="Cancel" id="cancel">Cancel</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input class="btn btn-primary btn-lg" type="submit" name="Save" id="save" formaction="AddEvent" value="Save" />
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+</body>

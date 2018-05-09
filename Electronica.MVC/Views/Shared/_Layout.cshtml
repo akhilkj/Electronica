@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELECTRONICA</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrapdem.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+
+
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .dropdown:hover .dropdown-menu {
+            display: block;
+        }
+
+        .nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+            margin-top: 0;
+        }
+
+        body {
+       
+            background-size: cover;
+            
+            background-position: center;
+            background-image: url('Images/img4.jpg');
+        }
+
+        .navbar{
+            margin-left:20%;
+            font-size:3vh;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+    <div class="row">
+        <h2 style="font-family: 'Courier New', sans-seri">ELECTRONICA</h2>
+    </div>
+        </div>
+    <nav style="font-family:Georgia" class="navbar">
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#">Home</a>
+        </li>
+
+
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#">Create Event</a>
+                <a class="dropdown-item" href="#">Edit Event</a>
+
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#">Topic</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="#">Location</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="#">About</a>
+        </li>
+
+        
+
+
+        </ul>
+    <ul style="padding-right:2%" class="nav nav-tabs ml-auto">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i></a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="#">Profile</a>
+                <a class="dropdown-item" href="#">SignOut</a>
+
+            </div>
+</ul>
+        </nav>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            </div>
+
+            <div style="background-color:black;width:100%;height:150px;">
+            <blockquote class="blockquote text-center">
+                <p class="mb-0">page</p>
+                <footer class="blockquote-footer">Created by<cite title="Source Title">Admins</cite></footer>
+            </blockquote>
+            </div>
+        
+
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

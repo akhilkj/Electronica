@@ -1,0 +1,38 @@
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Entity\obj\Debug\Electronica.Entity.pdb

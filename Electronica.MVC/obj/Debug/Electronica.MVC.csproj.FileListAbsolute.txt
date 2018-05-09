@@ -1,0 +1,320 @@
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\ApplicationInsights.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.rsp
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.exe
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.rsp
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.rsp
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\EntityFramework.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\WebGrease.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\EntityFramework.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.csprojResolveAssemblyReference.cache
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\ApplicationInsights.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.rsp
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.exe
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.rsp
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.rsp
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\EntityFramework.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\WebGrease.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\EntityFramework.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.csprojResolveAssemblyReference.cache
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\ApplicationInsights.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.rsp
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.exe
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.rsp
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.rsp
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\WebGrease.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\ApplicationInsights.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.exe.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\csc.rsp
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.exe
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\csi.rsp
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.exe.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\vbc.rsp
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.MVC.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\WebGrease.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Manager.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Newtonsoft.Json.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Helpers.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Mvc.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Optimization.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.Razor.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\bin\Electronica.Repository.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.MVC\obj\Debug\Electronica.MVC.pdb

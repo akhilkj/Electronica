@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Electronica.Manager",
+    "\\Electronica.Manager\\Manager",
+    "\\Electronica.MVC",
+    "\\Electronica.MVC\\Content",
+    "\\Electronica.MVC\\Views",
+    "\\Electronica.MVC\\Views\\Event"
+  ],
+  "SelectedNode": "\\Electronica.MVC\\Views\\Event\\AddEvent.cshtml",
+  "PreviewInSolutionExplorer": false
+}

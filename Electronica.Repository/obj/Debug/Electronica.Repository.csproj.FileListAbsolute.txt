@@ -1,0 +1,58 @@
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.pdb
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll.config
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.csprojResolveAssemblyReference.cache
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.dll
+C:\Users\abhijithm\Desktop\Project\Visual Studio 2017\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll.config
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.csprojResolveAssemblyReference.cache
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.pdb
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\renjithr\Desktop\New folder (2)\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\adimin 5th march\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Repository.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.pdb
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\Electronica.Entity.dll.config
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\bin\Debug\System.ValueTuple.xml
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.csprojResolveAssemblyReference.cache
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.dll
+C:\Users\akhilkj\Downloads\Project\Admin march 6th datatable update\Electronica.Admin\Electronica.Repository\obj\Debug\Electronica.Repository.pdb
